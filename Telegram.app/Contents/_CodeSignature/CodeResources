@@ -98,7 +98,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		IuUNdfrShw0vHP69GarEMEDN2OI=
+		c+KIn5YU/JnH1vY3PjOS//QbNSI=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -681,7 +681,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B6LJOYYldqFHafYPAgEDed0n4/I=
+			xIcR97xqWl8mOwsE0W6VJo0Jlus=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1040,6 +1040,10 @@
 		<data>
 		VJux+sTrT00k27D+6w9ihfYaWwg=
 		</data>
+		<key>Resources/menu_disable_sharing.tgs</key>
+		<data>
+		p0BY/3Ku8n5+pfGdXjZQZb6voTQ=
+		</data>
 		<key>Resources/menu_download_circle.tgs</key>
 		<data>
 		ECIvJjRbPIm30NXM+8KMpNdJ6Lo=
@@ -1059,6 +1063,10 @@
 		<key>Resources/menu_edited.tgs</key>
 		<data>
 		BNjY7CY/p50k4lVjdvFRmNJA7Do=
+		</data>
+		<key>Resources/menu_enable_sharing.tgs</key>
+		<data>
+		Pto0R8EnUu8rHfpykkQD8TFPD8g=
 		</data>
 		<key>Resources/menu_expand.tgs</key>
 		<data>
@@ -2183,7 +2191,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			39fKQ2zbDG7/mhwwxOtsNHtQPDg=
+			d5kfPVHBW3fUhFYts/KzR5O5NV0=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sparkle-project.Sparkle" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "6N38VWS5BX"</string>
@@ -2453,7 +2461,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			GF1wmLDE6AH+pPU2feWfyAbr14c=
+			IYLlm/ylu4gZTtqYmOspOOCVXSg=
 			</data>
 			<key>requirement</key>
 			<string>identifier "ru.keepcoder.Telegram.TelegramShare" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "6N38VWS5BX"</string>
@@ -2623,7 +2631,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			29LYFALSp38ChgwOH9txNrSuj8gbTAT7FSPL/3A/SWQ=
+			A0xtCCY2I+PZtivqytxmUulpRpkpWXCYG8g10NygZMY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
@@ -3633,7 +3641,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M0i8X2RUGz4T52jGwBB9DTrM9LOTWbCSuGXy/YUF8Wg=
+			716QmBmWh7UAj0W8UrJ9zMoMiVWn7Ex+x0S3fje5K2Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4244,6 +4252,13 @@
 			kFJpktj9hnxSndJmvH0Vyg5Z3JG04pO8PEu8Um2FIVk=
 			</data>
 		</dict>
+		<key>Resources/menu_disable_sharing.tgs</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FWyczNoUOnzX63hHB1RUaYBQNCOYpy5KOGDYLsJc0Rg=
+			</data>
+		</dict>
 		<key>Resources/menu_download_circle.tgs</key>
 		<dict>
 			<key>hash2</key>
@@ -4277,6 +4292,13 @@
 			<key>hash2</key>
 			<data>
 			c6EW0tKl6V4DZ/TL2R6tKebOIf05k++4kq6GQj2CMNo=
+			</data>
+		</dict>
+		<key>Resources/menu_enable_sharing.tgs</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			POZ/hGjl5kzsUvR+3fEqiWfuydq3r4kxOajEL2MD8PU=
 			</data>
 		</dict>
 		<key>Resources/menu_expand.tgs</key>
