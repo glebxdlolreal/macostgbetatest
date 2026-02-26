@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh release:*)",
+      "Bash(where:*)",
+      "Bash(winget list:*)",
+      "Bash(winget install:*)",
+      "Bash(curl:*)",
+      "Bash(msiexec:*)",
+      "Bash(cmd /c \"msiexec /i C:\\\\tmp\\\\gh_installer.msi /quiet /norestart\")",
+      "Bash(gh --version:*)",
+      "Bash(gh auth:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git lfs status:*)",
+      "Bash(git lfs:*)",
+      "Bash(git rm:*)"
+    ]
+  }
+}
